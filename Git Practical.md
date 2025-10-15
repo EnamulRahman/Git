@@ -10,7 +10,6 @@ Pbcopy – copies to clipboard
 
  
 
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH4NKXXSDKcwenX3z9TVcfReTIgerOHmKBXoGB6GYO3A e.r.200@hotmail.co.uk 
 
  
 
@@ -84,7 +83,7 @@ Step 3. Change your repo’s remote from HTTPS to SSH
 
 Run this inside your repo: 
 
-git remote set-url origin git@github.com:EnamulRahman/git-labs.git 
+
  
 
  
